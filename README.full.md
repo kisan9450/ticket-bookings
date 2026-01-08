@@ -1,4 +1,4 @@
-# Xalts Bookings — Ticket Bookings Microservices
+# Bookings — Ticket Bookings Microservices
 
 This repository contains a complete ticket-booking backend implemented as
 independent Spring Boot microservices. It's designed as a learning / demo
