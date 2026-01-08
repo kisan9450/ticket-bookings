@@ -1,4 +1,4 @@
-# Xalts Bookings – Microservices Backend
+#  Bookings – Microservices Backend
 
 This repository contains a complete **ticket booking system** implemented using
 **Spring Boot microservices architecture**.
