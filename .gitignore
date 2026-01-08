@@ -1,0 +1,102 @@
+############################
+# Ticket Bookings Platform
+############################
+
+##########
+# IDEs
+##########
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+##########
+# Gradle
+##########
+
+# Gradle cache
+.gradle/
+
+# Build output (ALL services)
+**/build/
+
+# Gradle Wrapper (keep wrapper JAR)
+!**/gradle/wrapper/gradle-wrapper.jar
+
+##########
+# Java
+##########
+
+# Compiled class files
+*.class
+
+# JVM crash logs
+hs_err_pid*
+
+##########
+# Logs
+##########
+
+*.log
+logs/
+**/logs/
+
+##########
+# OS Files
+##########
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+##########
+# Test / Coverage
+##########
+
+coverage/
+jacoco/
+*.exec
+
+##########
+# Secrets / Local Config
+##########
+
+# Environment files
+.env
+.env.*
+
+# Application local overrides
+application-local.yml
+application-local.yaml
+application-local.properties
+
+##########
+# Containers
+##########
+
+# Docker
+**/.dockerignore
+
+##########
+# Docs temp files
+##########
+
+*.tmp
+*.bak
+*.swp
